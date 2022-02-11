@@ -14,3 +14,4 @@ Learn- Git Commands
 7. Changes from branch 1 2
 8. Chaages from master branch
 9. changes from branch 0 3
+10 .changes from branch f
