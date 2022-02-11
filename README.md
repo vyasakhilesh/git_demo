@@ -9,4 +9,5 @@ Learn- Git Commands
 2. Second Change From Branch
 3. Changes from branch 0
 4. Changes from branch 1
-5. Chnages from branch 1 2
+5. Changes from branch 0 1
+6. Chnages from branch 1 2
